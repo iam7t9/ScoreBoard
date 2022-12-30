@@ -1,2 +1,3 @@
-/Server/venv
-/Frontend/scoreboard/node_modules
+env
+__pychache__
+data.txt
