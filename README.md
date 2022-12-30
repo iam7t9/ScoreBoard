@@ -15,7 +15,7 @@
 
 ```bash
   python -m venv env
-  .\\env\\bin\\activate
+  .\env\bin\activate
   pip install -r requirements.txt
 ```
 
@@ -33,12 +33,12 @@ to be used by the React client.
 **Starting Flask Server**
 ```bash
   cd ScoreBoard
-  .\\env\\bin\\activate
+  .\env\bin\activate
   python server.py
 ```
 
 **Starting React Server**
 ```bash
-  cd ScoreBoard\\front-end
+  cd ScoreBoard\front-end
   npm start
 ```
