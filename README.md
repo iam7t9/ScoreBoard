@@ -33,7 +33,7 @@ to be used by the React client.
 **Starting Flask Server**
 ```bash
   cd ScoreBoard
-  .\env\bin\activate
+  .\env\Scripts\activate
   python server.py
 ```
 
