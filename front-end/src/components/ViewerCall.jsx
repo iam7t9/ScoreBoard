@@ -8,13 +8,13 @@ export default function ViewerCall(){
 
     useEffect (() => {
         socket.on('data', (data)=>{
-            setScores(data.data);
+            console.log(data);
         })
     });
     return(
         <>
             <h1>
-                {scores}
+                hello
             </h1>
         </>
     )
