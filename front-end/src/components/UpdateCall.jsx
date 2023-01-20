@@ -11,6 +11,7 @@ export default function UpdateCall(){
 
     return(
         <>
+        <div className="">
           <div>
             <label for="arena">Select Arena</label>
                 <select name="arena" id="arena">
@@ -20,11 +21,15 @@ export default function UpdateCall(){
                 </select>
           </div>
             {/* According to the rules add buttons and creat events */}
-          <button type="button" onClick={Panelty}>Panelty</button>
-          <button type="button" onClick={Panelty}>Checkpoint 1</button>
-          <button type="button">Checkpoint 2</button>
+            <div onClick={Panelty} class="border-2 border-red-600 rounded-lg px-3 py-2 text-red-400 cursor-pointer hover:bg-yellow-600 hover:text-yellow-200">
+          Panelty
+        </div>
+        <div class="border-2 border-yellow-600 rounded-lg px-3 py-2 text-yellow-400 cursor-pointer hover:bg-yellow-600 hover:text-yellow-200">
+          Checkpoint 1
+        </div>
+          <button type="button">Helo 2</button>
           <button type="button">Checkpoint 3</button>
-
+        </div>
 
         </>
     )

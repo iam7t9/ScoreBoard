@@ -6,16 +6,14 @@ const socket = io.connect("192.168.137.1:5001")
 export default function ViewerCall(){
     const [scores, setScores] = useState({});
 
-    useEffect (() => {
+    useEffect (() => {  
         socket.on('data', (data)=>{
             console.log(data);
+            setScores({"Hello": 231})
         })
     });
     return(
         <>
-            <h1>
-                hello
-            </h1>
-        </>
+Hello        </>
     )
 }
