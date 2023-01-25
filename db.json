@@ -1,0 +1,515 @@
+{
+    "RoboRace": {
+        "team1": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team4": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team7": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team10": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team13": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team16": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ],
+        "team19": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            },
+            {
+                "id": 6,
+                "check": "checkPoint_6",
+                "status": "NA"
+            },
+            {
+                "id": 7,
+                "check": "checkPoint_7",
+                "status": "NA"
+            },
+            {
+                "id": 8,
+                "check": "checkPoint_8",
+                "status": "NA"
+            }
+        ]
+    },
+    "NinjaClash": {
+        "team3": {
+            "panelty": 0,
+            "score": 0
+        },
+        "team6": {
+            "panelty": 0,
+            "score": 0
+        },
+        "team9": {
+            "panelty": 0,
+            "score": 0
+        },
+        "team12": {
+            "panelty": 0,
+            "score": 0
+        },
+        "team15": {
+            "panelty": 0,
+            "score": 0
+        },
+        "team18": {
+            "panelty": 0,
+            "score": 0
+        }
+    },
+    "PackRunner": {
+        "team2": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team5": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team8": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team11": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team14": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team17": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ],
+        "team20": [
+            {
+                "id": 1,
+                "check": "checkPoint_1",
+                "status": "NA"
+            },
+            {
+                "id": 2,
+                "check": "checkPoint_2",
+                "status": "NA"
+            },
+            {
+                "id": 3,
+                "check": "checkPoint_3",
+                "status": "NA"
+            },
+            {
+                "id": 4,
+                "check": "checkPoint_4",
+                "status": "NA"
+            },
+            {
+                "id": 5,
+                "check": "checkPoint_5",
+                "status": "NA"
+            }
+        ]
+    }
+}
